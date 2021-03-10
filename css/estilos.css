@@ -22,7 +22,7 @@ clip-path: polygon(0 0, 100% 0, 100% 71%, 0 100%);
 }
 
 .titulo{
-    padding: 20vh 5vh;
+    padding: 20vh 4vh; 
     text-align: center;
     color: #34E4EA;
 }
